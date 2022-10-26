@@ -30,7 +30,7 @@ The hardest technical challenge was creating the “Outcome based on Goal’s”
 ### What are two conclusions you can draw about the Outcomes based on Launch Date? 
 Two conclusions you can draw about the Outcomes based on Launch Date - The outcomes reached a peak in the Month of May and then they decreased from there with a slight rise in October. My suggestions would be to run the campaign in May. After May, the successful percentage decreases dramatically so your duration should be short, a month or two at most.
 
-###What can you conclude about the Outcomes based on Goals? 
+### What can you conclude about the Outcomes based on Goals? 
 The lower amount was much more feasible. As the amount increased the failure rate increased, and the success rate decreased. Making the goals reasonable (lower) appeared to provide a higher success rate. It may also help morale if participants come away with success. They are more likely to participate the next time the campaign is launched.
 
 What are some limitations of this dataset? Looking at other countries and categories. I would have liked to conduct further analysis of these variables.
