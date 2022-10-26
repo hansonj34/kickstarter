@@ -20,7 +20,7 @@ The analysis tells us that on the extreme levels, less than 1000 and Greater tha
 ### Challenges and Difficulties Encountered
 One challenge was trying not to look at the other options available such as a different play or a different subcategory. It would have been beneficial to offer the client other ways of carrying out the campaign. Included in my report, a suggestion of incorporating a component of music into the campaign was recommended.
 
-
+![Monthly Outcomes for Music](https://github.com/hansonj34/kickstarter/blob/main/Analysis%20Projects/Resources%20file/Monthly%20outcomes%20for%20Music.png)
 
 The hardest technical challenge was creating the “Outcome based on Goal’s” sheet. The complexity of the formulas were difficult. I made many adjustments and corrected  the formulas numerous times during the project.
 
