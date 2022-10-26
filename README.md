@@ -33,6 +33,8 @@ Two conclusions you can draw about the Outcomes based on Launch Date - The outco
 ### What can you conclude about the Outcomes based on Goals? 
 The lower amount was much more feasible. As the amount increased the failure rate increased, and the success rate decreased. Making the goals reasonable (lower) appeared to provide a higher success rate. It may also help morale if participants come away with success. They are more likely to participate the next time the campaign is launched.
 
-What are some limitations of this dataset? Looking at other countries and categories. I would have liked to conduct further analysis of these variables.
+### What are some limitations of this dataset? Looking at other countries and categories. 
+I would have liked to conduct further analysis of these variables.
 
-What are some other possible tables and/or graphs that we could create?I have added them above in my analysi
+### What are some other possible tables and/or graphs that we could create?
+I have added one in the analysis regarding the use of music.  Using theatre would also be something that we can analyze.
