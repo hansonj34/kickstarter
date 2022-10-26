@@ -14,10 +14,14 @@ As we can see from the data, May is a great time of year for a theater campaign.
 ### Analysis of Outcomes Based on Goals
 The analysis tells us that on the extreme levels, less than 1000 and Greater than 50,000, the successful and the failed campaigns were on opposite sides of the spectrum. Less than 1000, 80% of the campaigns were successful and 20% failed. Campaigns greater than 50,000; 80% of the campaigns failed and 20% succeeded.
 
+![Outcomes_vs_Goals](https://github.com/hansonj34/kickstarter/blob/main/Analysis%20Projects/Resources%20file/Monthly%20outcomes%20for%20Music.png)
+
 ### Challenges and Difficulties Encountered
 One challenge was trying not to look at the other options available such as a different play or a different subcategory. It would have been beneficial to offer the client other ways of carrying out the campaign. Included in my report, a suggestion of incorporating a component of music into the campaign was recommended.
 
 The hardest technical challenge was creating the “Outcome based on Goal’s” sheet. The complexity of the formulas was increasing. I made many adjustments and corrected formulas thus persevering through the project.
+
+![Successful vs  Failed Campaigns]
 
 ## CResults
 What are two conclusions you can draw about the Outcomes based on Launch Date? Two conclusions you can draw about the Outcomes based on Launch Date - Outcomes reached a peak in the Month of May and then decreased from there with a slight rise in October. My suggestions would be to run the campaign in May. After May, the successful percentage decreases dramatically so your duration should be short, a month or two at most.
