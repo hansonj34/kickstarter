@@ -21,7 +21,7 @@ One challenge was trying not to look at the other options available such as a di
 
 The hardest technical challenge was creating the “Outcome based on Goal’s” sheet. The complexity of the formulas was increasing. I made many adjustments and corrected formulas thus persevering through the project.
 
-![Successful vs  Failed Campaigns]
+![Successful vs  Failed Campaigns](https://github.com/hansonj34/kickstarter/blob/main/Analysis%20Projects/Resources%20file/Succesful%20vs%20Failed%20campaigns.png)
 
 ## CResults
 What are two conclusions you can draw about the Outcomes based on Launch Date? Two conclusions you can draw about the Outcomes based on Launch Date - Outcomes reached a peak in the Month of May and then decreased from there with a slight rise in October. My suggestions would be to run the campaign in May. After May, the successful percentage decreases dramatically so your duration should be short, a month or two at most.
